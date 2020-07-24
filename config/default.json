@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://shraddha123:shraddha123@cluster0-yn82g.mongodb.net/pokemon-crud?retryWrites=true&w=majority"
+}
